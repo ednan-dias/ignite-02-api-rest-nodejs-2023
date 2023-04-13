@@ -1,4 +1,4 @@
 node_modules
 .env
-db/migrations
-db/app.db
+.env.test
+db/*
